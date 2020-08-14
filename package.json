@@ -1,0 +1,27 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start:electron": "electron -r babel-register .",
+    "build:windows": "electron-packager . changer --platform win32 --overwrite",
+    "build:mac": "electron-packager . changer --platform darwin --overwrite",
+    "build:linux": "electron-packager . changer --platform linux --overwrite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-window-state": "^5.0.3"
+  },
+  "devDependencies": {
+    "electron": "^9.2.0",
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "devtron": "^1.4.0",
+    "electron-packager": "^15.0.0",
+    "electron-reload": "^1.5.0"
+  }
+}

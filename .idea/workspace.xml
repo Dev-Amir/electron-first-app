@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57e47745-9f0a-473a-99e6-723732ada281" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fyTTEDQxPTqvB7ve5HCZCFgqM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e47745-9f0a-473a-99e6-723732ada281" name="Default Changelist" comment="" />
+      <created>1597189344033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597189344033</updated>
+      <workItem from="1597189346186" duration="75000" />
+      <workItem from="1597189434488" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="268" key="SettingsEditor" timestamp="1597189672761">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="689" y="268" key="SettingsEditor/0.24.1920.1056@0.24.1920.1056" timestamp="1597189672761" />
+    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1597189676414">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup/0.24.1920.1056@0.24.1920.1056" timestamp="1597189676414" />
+  </component>
+</project>

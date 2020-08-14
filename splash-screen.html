@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit text file</title>
+
+    <style>
+        /* initialize */
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 10px;
+            max-width: 100vw;
+            overflow-x: hidden;
+            min-height: 100vh;
+        }
+
+        .splash {
+            width: 100vw;
+            height: 100vh;
+            border-radius: 10px;
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+        }
+
+        .splash__text {
+            font-size: 6rem;
+            letter-spacing: 1rem;
+            text-align: center;
+            font-style: italic;
+            cursor: default;
+        }
+
+        .splash__text::selection {
+            background-color: transparent;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="splash">
+        <p class="splash__text">Edit text file</p>
+    </div>
+</body>
+</html>

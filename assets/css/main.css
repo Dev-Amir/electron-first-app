@@ -1,0 +1,26 @@
+/* initialize */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    max-width: 100vw;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+.btn {
+    font-size: 1.7rem;
+}
+
+#editor {
+    width: 700px;
+    height: 300px;
+    max-width: 100%;
+    resize: none;
+    font-size: 2rem;
+    font-weight: bold;
+}
